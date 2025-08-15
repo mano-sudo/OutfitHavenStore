@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "homepage": "/",
   "name": "ecommerce-react",
   "private": true,
@@ -35,9 +34,5 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17",
     "vite": "^7.0.4"
-=======
-  "dependencies": {
-    "mongodb": "^6.18.0"
->>>>>>> e92abb9a823f7137b50505264f1357443c50462c
   }
 }
